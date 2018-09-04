@@ -4,7 +4,7 @@ A Highly Customizable Material Dialog Box
 # Example
 Colors,Buttons,Images,Title,Message,Corners,views can be modified as you want
 
-![Screenshot]()
+![Screenshot](https://i.imgur.com/MkeZI0j.gif)
 
 # How to add to your app 
 
