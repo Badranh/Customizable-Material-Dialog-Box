@@ -28,7 +28,7 @@ allprojects {
 ```
  final MaterialDialog dialog = new MaterialDialog();
  dialog.setMessage("This is my super cool dialog  and it can be animated with more than 20 animations!Marianne or husbands if at stronger ye. Yet diminution she impossible understood age. \n");
- dialog.setAnimation(getAnim());
+ dialog.setAnimation(getAnim()); //choose your own animation.getAnim() is anim that choose animations randomly
  dialog.setDialogImage(R.drawable.user);
  dialog.setPostiveButtonText("Accept");
  dialog.setNegativeBtnText("Decline");
